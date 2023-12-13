@@ -1,0 +1,11 @@
+{
+  "name": "project-management-app",
+  "version": "1.0.0",
+  "description": "created proejct help us to understand the fundamental and logic based on GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navin",
+  "license": "ISC"
+}
