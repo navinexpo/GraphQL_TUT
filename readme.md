@@ -1,0 +1,1 @@
+GraphQL is a technology where we are able to create a query and mutate the object. 
